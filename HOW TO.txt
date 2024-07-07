@@ -1,0 +1,7 @@
+la commande 
+eas build -p android --profile preview
+
+semble build l'apk et la proposer sur un environnement expo ainsi que fournir un lien de DL.
+
+npm run start allume le serveur de dev
+DL l'appli expo go sur android et scan qr code
