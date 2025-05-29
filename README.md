@@ -2,7 +2,7 @@
 
 The ReactNative App loading a Webview Component of play-it.fr (My own webapp based on ReactJs).
 
-Everything build before AI, should've wait few months lol.
+Everything build before AI. I should've wait few months lol.
 
 Anyway this is enough to build an apk file, and install it on an Android, really proud of this workaround after spending so much time on ReactJS, which I thought was the React solution to build apk with.
 
